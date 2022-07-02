@@ -11,8 +11,3 @@ img.style.width="50px"
 img.style.height="50px"
 element.appendChild(img);
 
-// nooo
-
-
-
-

@@ -3,47 +3,15 @@ hello()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-import header from "./component/header/header"
-// // // nooo
-
-
+import  "./component/header/header"
 
 
 import "./style.css"
 
 
 
-
-
-
-import bio from "./component/bio/bio"
-import photo from"./assets/cover.jpg"
+import  "./component/bio/bio"
+// import photo from"./assets/cover.jpg"
 
 
 /* 
